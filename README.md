@@ -1,1 +1,1 @@
-[https://chrome.google.com/webstore/detail/jdbdpkahagonfheaoebaapgnidchalkf](https://chrome.google.com/webstore/detail/jdbdpkahagonfheaoebaapgnidchalkf)
+[https://chrome.google.com/webstore/detail/black-github/jdbdpkahagonfheaoebaapgnidchalkf](https://chrome.google.com/webstore/detail/black-github/jdbdpkahagonfheaoebaapgnidchalkf)
