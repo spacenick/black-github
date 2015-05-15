@@ -32,3 +32,20 @@
   background-color: #2c2e30 !important;
   border-right: 1px solid #3e4042 !important;
 }
+
+.header-nav-link {
+  color: #f5f5f5 !important;
+}
+
+.header-nav-link:hover {
+  color: #4183c4 !important;
+}
+
+.scope-badge {
+  text-shadow: none !important;
+  color: black !important;
+}
+
+.focus > .scope-badge {
+  color: #4183c4 !important;
+}
