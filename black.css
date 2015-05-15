@@ -7,17 +7,14 @@
   box-shadow: none !important;
 }
 
-.header .top-nav>li>a {
-  color:#f5f5f5 !important;
-}
-.header .top-nav>li>a:hover {
-  color: #4183c4 !important;
-}
 .header .octicon-question {
   text-shadow: none !important;
 }
 .header .header-logo-invertocat .octicon-mark-github {
   color: #f5f5f5 !important;
+}
+.header .header-logo-invertocat .octicon-mark-github:hover {
+  color: #4183c4 !important;
 }
 .header #user-links>li>a {
   color: #f5f5f5 !important;
