@@ -7,9 +7,6 @@
   box-shadow: none !important;
 }
 
-.header {
-  text-shadow: 0 1px 0 #3a3a3a !important;
-}
 .header .top-nav>li>a {
   color:#f5f5f5 !important;
 }
@@ -42,10 +39,17 @@
 }
 
 .scope-badge {
-  text-shadow: none !important;
   color: black !important;
 }
 
 .focus > .scope-badge {
   color: #4183c4 !important;
+}
+
+.dropdown-menu .octicon {
+  color: black !important;
+}
+
+.dropdown-menu li:hover .octicon {
+    color: #f5f5f5 !important;
 }
